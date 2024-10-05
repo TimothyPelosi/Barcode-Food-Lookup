@@ -1,0 +1,1 @@
+This script allows for looking up an items details based on the barcode provided.
